@@ -2,6 +2,8 @@
 
 **SuggestionFriends** is an app with engaging animations designed to provide a seamless user experience while browsing through suggested friends. This README focuses on the animations used within the application.
 
+<img src="screenshots/suggestion_friends.gif" style="margin:1.5em; margin-right:5px">
+
 ## Animations in the Application
 
 The app uses Jetpack Compose animations to enhance the user experience. Here’s a summary of the main animations:
